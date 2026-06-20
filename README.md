@@ -20,7 +20,9 @@ My current work focuses on C++17 backend engines and libraries running on Linux,
 
 ## CV
 
-[Download my latest CV]([https://github.com/kenhero/Kenhero/blob/main/Bruno_Vittorino_Senior_CPP_Systems_Engineer_CV_Github.pdf])
+You can download my latest CV here:
+
+[Bruno Vittorino - Senior C++ Systems Engineer CV](Bruno_Vittorino_Senior_CPP_Systems_Engineer_CV_Github.pdf)
 
 ## Links
 
